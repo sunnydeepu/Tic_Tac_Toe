@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  * @author D V N SANDEEP
  */
 public class TicTacToe_s extends javax.swing.JFrame {
-    private String startGame ="X";
+    private String startGame123 ="X";
     private int xCount = 0;
     private int oCount = 0;
 
